@@ -1,0 +1,14 @@
+{
+  "name": "autoreply",
+  "version": "1.0.0",
+  "description": "Discord bot that auto-replies to repeat questions by pointing to the announcement channel",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5"
+  }
+}
